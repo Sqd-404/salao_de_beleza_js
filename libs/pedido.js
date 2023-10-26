@@ -1,0 +1,1 @@
+//Função que pergunta o que será feito (corte, escova, barba) nessa função podemos informar o valor total do que será feito

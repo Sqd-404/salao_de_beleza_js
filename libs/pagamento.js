@@ -1,0 +1,1 @@
+// Função receber recebe o pagamento e retorna troco
